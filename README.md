@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning a lot from this field.
 - 🌱 I’m currently learning as a trainee under Vauldex Tech.
 - 💞️ I’m looking to collaborate on game development and software development.
-- 📫 How to reach me email: gfmmortera@gmail.com, phone: 09393719891 
 
 <!---
 Itlogg/Itlogg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
